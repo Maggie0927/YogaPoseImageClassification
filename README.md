@@ -6,4 +6,4 @@ Our final project for *MSCA 37011: Deep Learning and Image Recognition*
 
 Team Member: 
 
-* Jingjing Li, Jinglin Zhong, Shuyi Jiang, Wanxuan Zhang *
+*Jingjing Li, Jinglin Zhong, Shuyi Jiang, Wanxuan Zhang*
