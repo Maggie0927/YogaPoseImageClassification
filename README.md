@@ -1,4 +1,4 @@
-# YogaPoseImageClassification
+# Yoga Pose Image Classification
 
 ### Use self-defined and pre-trained deep learning algorithms to classify yoga poses ###
 
